@@ -10,6 +10,9 @@ declare(strict_types = 1);
  */
 
 return [
+    
+    // The identification label
+    'LABEL_COLOR' => 'Manto',
 
     // Base colors
     'COLOR_BLACK' => 'Morello', // 1
