@@ -10,6 +10,9 @@ declare(strict_types = 1);
  */
 
 return [
+    
+    // The identification label
+    'LABEL_COLOR' => 'Fellfarbe',
 
     // Base colors
     'COLOR_BLACK' => 'Rappe', // 1
